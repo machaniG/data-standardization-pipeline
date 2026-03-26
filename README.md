@@ -5,7 +5,7 @@
 
 ### Executive Summary
 
-Built a production-style data pipeline to clean, standardize, and unify fragmented customer and product data across multiple systems. The pipeline applies both base data cleaning and business logic (entity resolution, SKU consolidation) to produce reliable master datasets suitable for reporting and downstream applications.
+Built a production-style data pipeline to cleans, standardizes, and unifies fragmented customer and product data across multiple systems. The pipeline applies both base data cleaning and business logic (entity resolution, SKU consolidation) to produce reliable master datasets suitable for reporting and downstream applications.
 
 ______
 
@@ -74,7 +74,7 @@ ______
 
 _____
 
-## Example Transformation
+## Sample Transformation
 
 ### Before Cleaning (fragmented data)
 
