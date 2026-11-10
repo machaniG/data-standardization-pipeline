@@ -29,7 +29,7 @@ This project builds a modular data pipeline that transforms messy, multi-source 
 
     - Duplicate records across systems
 
-**Result**: No single source of truth for customers
+**Problem**: No single source of truth for customers
 
 ### Product / Inventory Data
 
@@ -41,7 +41,7 @@ This project builds a modular data pipeline that transforms messy, multi-source 
 
 - Mixed price formats (**e.g., 59,24, $46.04, TBD**)
 
-**Result**: Broken inventory tracking and inaccurate reporting
+**Problem**: Broken inventory tracking and inaccurate reporting
 
 ____
 
